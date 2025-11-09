@@ -1,0 +1,8 @@
+data_paths:
+  raw_csv: "raw_data/INvideos.csv"
+  raw_json: "raw_data/IN_category_id.json"
+  cleaned_csv: "cleaned_data/cleaned_youtube.csv"
+
+database:
+  name: "database/youtube.db"
+  table_name: "videos"
